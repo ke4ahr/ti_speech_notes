@@ -1,0 +1,21 @@
+Kris Kirby, KE4AHR <kris.kirby+code@gmail.com>
+
+2026-04-06T19:58+00:00
+
+Per
+<https://ftp.whtech.com/datasheets%20and%20manuals/Datasheets%20-%20TI/TIMasterSelection-1983.pdf>
+Pages 33-35:
+
+  ----------- -------------- -------- ----- ---------- -------
+  VM61002     Industrial     Male     204   TMS5100A   128 k
+  VM61003     Industrial     Male     206   TMS5220A   128 k
+  VM61004     Time/Weather   Male     139   TMS5220A   128 k
+  VM61005\*   Military       Male     148   TMS5220A   128 k
+  VM61006A    Avionics       Male     119   TMS5220A   128 k
+  VM71003     Industrial     Male     50    TMS5100A   32 k
+  VM71004A    Numeric/Time   Male     35    TMS5100A   32 k
+  VM71005A    Numeric/Time   Female   34    TMS5220A   32 k
+  ----------- -------------- -------- ----- ---------- -------
+
+* To have a complete avionics vocabulary, the TMS61003, TMS61004, and
+TMS61005 should be used together.
